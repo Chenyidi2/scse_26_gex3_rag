@@ -1,0 +1,4 @@
+langchain-core==1.6.9
+langchain-ollama==1.1.0
+langchain-chroma==1.1.0
+pydantic==2.14.0

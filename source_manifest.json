@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/prabhatram/scse_26_gex3_rag",
+  "commit": "3798299ea495b2670c23fb51090bd6cf0c7c09cd",
+  "newline_normalization": "CRLF to LF",
+  "sha256": {
+    "policy_loader.py": "ceab2341aef7c7abc833881662fe2cf65909c948de5a3325de5d9d39340ba130",
+    "check_data.py": "0ff197d849d17d00642d3b29167a2ba1eff97027163f95b7d455187b7c689a25",
+    "university_it_policies.txt": "75662fd0fe3be9ffb53975b21687bc23f7b459da7645400f96a69c9e86477dde",
+    "original_domain_corpus_clean.jsonl": "2a1b342990d8fbf9d99719cb19e77c7ab3fb182507d5bea89dd3521a80c08260"
+  }
+}
